@@ -1,2 +1,2 @@
-# spring-spark-example
-An example of setting up Spring-Boot with Spark.
+# Java Final Project
+analysis wuzzuf jobs data with spring and spark
